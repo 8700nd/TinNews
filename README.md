@@ -11,4 +11,4 @@ Built the Room Database with LiveData & ViewModel to support local cache and off
 
 Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL endpoint  (newsapi.org)  
 
-![github-small](images/HomePage.png)
+<img src ="images/HomePage.png" width="100">
