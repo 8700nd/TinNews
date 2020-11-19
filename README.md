@@ -10,3 +10,5 @@ Utilized 3rd party CardStackView(RecyclerView) to support swipe gestures for lik
 Built the Room Database with LiveData & ViewModel to support local cache and offline model
 
 Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL endpoint  (newsapi.org)  
+
+![](images/HomePage.png)
