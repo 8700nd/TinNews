@@ -14,4 +14,4 @@ Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL end
 <img src ="images/HomePage.png" width="300"> <img src ="images/ItalyHomePage.png" width="300"> <img src ="images/SavePage.png" width="300"> <img src ="images/SearchPage.png" width="300">
 
 ![](TinNews.gif)
-<img src="TinNews.gif" width="40" height="40" />
+<img src="TinNews.gif" width="400" height="280" />
